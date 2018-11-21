@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68bb4240-d6d8-447d-8311-6b2b75ffd3dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/zhangkexu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func_default.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func_docString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func_params.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_sys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_local.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backup_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/join.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,77 +14,76 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/python_learning$module_test.coverage" NAME="module_test Coverage Results" MODIFIED="1542340160929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_learning$python_local.coverage" NAME="python_local Coverage Results" MODIFIED="1542078983576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_learning$str.coverage" NAME="str Coverage Results" MODIFIED="1541751489852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_learning$module_sys.coverage" NAME="module_sys Coverage Results" MODIFIED="1542338733930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_learning$demo.coverage" NAME="demo Coverage Results" MODIFIED="1541666189533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_learning$module_sys_js.coverage" NAME="module_sys.js Coverage Results" MODIFIED="1542335811054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$func_docString.coverage" NAME="func_docString Coverage Results" MODIFIED="1542335082558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$func_params.coverage" NAME="func_params Coverage Results" MODIFIED="1542077377392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$backup_1.coverage" NAME="backup_1 Coverage Results" MODIFIED="1542780763365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$module_test.coverage" NAME="module_test Coverage Results" MODIFIED="1542340981270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$str.coverage" NAME="str Coverage Results" MODIFIED="1541751489852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$join.coverage" NAME="join Coverage Results" MODIFIED="1542772824304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_learning$guess.coverage" NAME="guess Coverage Results" MODIFIED="1541664998637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_learning$func.coverage" NAME="func Coverage Results" MODIFIED="1542076492821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_learning$func_default.coverage" NAME="func_default Coverage Results" MODIFIED="1542334042308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_learning$func_docString.coverage" NAME="func_docString Coverage Results" MODIFIED="1542335082558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_learning$login.coverage" NAME="login Coverage Results" MODIFIED="1541666193738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_learning$func_params.coverage" NAME="func_params Coverage Results" MODIFIED="1542077377392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="2104114241">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.7" value="3" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.6" value="4" />
+          <entry key="project.open.time.7" value="4" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="15" />
+          <entry key="py" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="15" />
+          <entry key="Python" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="76" />
+          <entry key="Python Console" value="87" />
           <entry key="login" value="12" />
-          <entry key="py" value="2782" />
+          <entry key="py" value="3753" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="2870" />
+          <entry key="Python" value="3852" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module_person.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/backup_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            <state relative-caret-position="266">
+              <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
               <folding>
-                <marker date="1542339323151" expanded="true" signature="13:18" ph="..." />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/module_test.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/join.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -122,6 +114,8 @@
         <option value="$PROJECT_DIR$/module_sys.py" />
         <option value="$PROJECT_DIR$/module_person.py" />
         <option value="$PROJECT_DIR$/module_test.py" />
+        <option value="$PROJECT_DIR$/join.py" />
+        <option value="$PROJECT_DIR$/backup_1.py" />
       </list>
     </option>
   </component>
@@ -173,8 +167,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.module_test">
-    <configuration name="func_default" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.backup_1">
+    <configuration name="backup_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,7 +181,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/func_default.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backup_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,7 +190,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="func_docString" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="join" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,7 +203,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/func_docString.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/join.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -285,19 +279,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.func_default" />
-      <item itemvalue="Python.func_docString" />
       <item itemvalue="Python.module_sys.js" />
       <item itemvalue="Python.module_sys" />
       <item itemvalue="Python.module_test" />
+      <item itemvalue="Python.backup_1" />
+      <item itemvalue="Python.join" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.backup_1" />
+        <item itemvalue="Python.join" />
         <item itemvalue="Python.module_test" />
         <item itemvalue="Python.module_sys" />
         <item itemvalue="Python.module_sys.js" />
-        <item itemvalue="Python.func_docString" />
-        <item itemvalue="Python.func_default" />
       </list>
     </recent_temporary>
   </component>
@@ -325,22 +319,23 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12473348" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12899786" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="3" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="4" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32899022" />
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50053304" side_tool="true" weight="0.3724213" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.3984799" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.49946696" weight="0.3724213" />
+      <window_info active="true" anchor="bottom" id="Run" order="11" sideWeight="0.49946696" visible="true" weight="0.3724213" />
       <window_info anchor="bottom" id="TODO" order="12" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -430,28 +425,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_person.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-          <folding>
-            <marker date="1542339323151" expanded="true" signature="13:18" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module_person.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/join.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backup_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
